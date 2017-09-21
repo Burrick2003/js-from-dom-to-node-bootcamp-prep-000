@@ -1,3 +1,2 @@
 // write your code below!
-console.log("Hello, Puppy!
-")
+console.log("Hello, Puppy!")
